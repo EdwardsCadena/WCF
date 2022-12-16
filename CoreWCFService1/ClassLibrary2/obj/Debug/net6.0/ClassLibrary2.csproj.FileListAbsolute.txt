@@ -1,0 +1,15 @@
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\bin\Debug\net6.0\ClassLibrary1.dll
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\bin\Debug\net6.0\ClassLibrary1.pdb
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.AssemblyReference.cache
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CopyComplete
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+F:\Repositories\WCF\CoreWCFService1\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll

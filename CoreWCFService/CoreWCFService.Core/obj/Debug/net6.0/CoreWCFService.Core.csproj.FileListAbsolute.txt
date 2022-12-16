@@ -1,0 +1,12 @@
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\bin\Debug\net6.0\CoreWCFService.Core.deps.json
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\bin\Debug\net6.0\CoreWCFService.Core.dll
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\bin\Debug\net6.0\CoreWCFService.Core.pdb
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.csproj.AssemblyReference.cache
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.AssemblyInfoInputs.cache
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.AssemblyInfo.cs
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.csproj.CoreCompileInputs.cache
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.dll
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\refint\CoreWCFService.Core.dll
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\CoreWCFService.Core.pdb
+F:\Repositories\WCF\CoreWCFService\CoreWCFService.Core\obj\Debug\net6.0\ref\CoreWCFService.Core.dll
