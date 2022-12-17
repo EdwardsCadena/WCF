@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CoreWCFService1.props" />
-</Project>
